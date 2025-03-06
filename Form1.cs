@@ -16,5 +16,20 @@ namespace modul3_103022300114
         {
             InitializeComponent();
         }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void OUTPUT_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
